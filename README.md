@@ -36,4 +36,6 @@ Hypothesis Testing
 The first hypothesis tested is the null hypothesis that “Startup location has no relation with it getting funding/ Startup location has no relation with it receiving funding”. It alternative hypothesis is that “Startup location and number of funding are positively correlated”. The regression analysis revealed that the variables are NOT correlated hence there is no relationship between location and funding amount. 
 The second null hypothesis also tested for a relationship between funding amount and the stage of funding. The analysis again revealed that there is no direct relationship between the variables.
 The link to the full article with visualization can be seen at the link below.
+
+
 https://medium.com/@alihu.alhassan/analysis-of-the-indian-startup-funding-data-b66a2d45c352
