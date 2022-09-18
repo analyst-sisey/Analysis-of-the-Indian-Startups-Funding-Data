@@ -37,5 +37,9 @@ The first hypothesis tested is the null hypothesis that “Startup location has 
 The second null hypothesis also tested for a relationship between funding amount and the stage of funding. The analysis again revealed that there is no direct relationship between the variables.
 The link to the full article with visualization can be seen at the link below.
 
+Conclusions
+
+From our analysis of the Indian startup data from 2018 to 2021, the year 2021 saw the most funding in terms of funding amount and also the number of starups funded. On average over the 4years, the amount received by startups in India was $97,859,791.87. Seed funding is the highest type of funding over the 4 year period with 606 startups getting seed funding. The Fintech sector is the sector with the highest number of startup funding(260), followed by the Edtech sector with 222 startups. Although there are alot of startups concentrated in cities like Bangalore and Mumbai, there is no direct relationship between the location of a startup and it ability to get funding. There is also no direct relationship between the stage of funding and funding amount.
+
 
 https://medium.com/@alihu.alhassan/analysis-of-the-indian-startup-funding-data-b66a2d45c352
