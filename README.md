@@ -1,4 +1,5 @@
 https://medium.com/@alihu.alhassan/analysis-of-the-indian-startup-funding-data-b66a2d45c352
+
 Analysis-of-the-Indian-Startups-Funding-Data
 
 Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital---popularly known as "funding" to think big, grow rich, and leave a lasting impact.
